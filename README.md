@@ -40,8 +40,9 @@ Power BI (modelado, DAX, visualizaciones)
 
 Excel / CSV (fuente de datos)
 
-![Dashboard 1](imagenes/dashboard_1.png)
-![Dashboard 2](imagenes/dashboard_2.png)
+![Panel de control 1](imagenes/dashboard_1.png)
+![Panel de control 2](imagenes/dashboard_2.png)
+
 
 
 DAX para KPIs, medidas y cálculos financieros
