@@ -41,8 +41,8 @@ Power BI (modelado, DAX, visualizaciones)
 Excel / CSV (fuente de datos)
 
 
-![Panel 1](imágenes/dashboard_1.png)
-![Panel 2](imágenes/dashboard_2.png)
+![Panel 1](imagenes/dashboard_1.png)
+![Panel 2](imagenes/dashboard_2.png)
 
 
 
