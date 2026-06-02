@@ -39,8 +39,9 @@ Respuesta: El dashboard revela caídas puntuales en ingresos, diferencias por re
 Power BI (modelado, DAX, visualizaciones)
 
 Excel / CSV (fuente de datos)
+![Panel de control 1](imagenes/dashboard_1.png)
+![Panel de control 2](imagenes/dashboard_2.png)
 
-![Test](imagenes/dashboard_1.png)
 
 
 
