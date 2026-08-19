@@ -50,3 +50,6 @@ Excel / CSV (fuente de datos)
 
 
 DAX para KPIs, medidas y cálculos financieros
+
+te compartos mis datos por si gustas contactarme 
+cv793937@gmail.com 
